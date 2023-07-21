@@ -1,6 +1,6 @@
 <h1 align="center"> Hola! 👋 </h1>
 
-<h3> Math student at Universidad de San Carlos de Guatemala <a href="https://ecfm.usac.edu.gt/">(USAC)</h3>
+<h3 align="center"> Math student at Universidad de San Carlos de Guatemala <a href="https://ecfm.usac.edu.gt/">(USAC)</h3>
 
 Data Analyst and Python Programmer 🐍
 
