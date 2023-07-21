@@ -22,3 +22,5 @@ print("Hakuna Matata")
 ### Contact
 ---
 [Telegram](@willicutzal)
+
+<willicutzal@gmail.com>
