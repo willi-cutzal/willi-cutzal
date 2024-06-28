@@ -29,4 +29,4 @@
 
 Telegram: @willicutzal
 
-Mail: willicutzal@gmail.com
+Mail: willicutzal19@gmail.com
